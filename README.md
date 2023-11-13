@@ -60,7 +60,7 @@ is the easiest way to think of, it is equivalent to divide the square into 4 sma
 When N is an even number of no problem, but when N is an odd number, such as the figure N is 5, a total of 5 * 5 = 25 points,
 remove the middle of a point without change, we need to traverse 24/4 = 6 points
 At this time with this way of cutting there is no way to achieve equal traversal!
-<img src="/output1_2_3.png" alt="GitHub Logo" width="290" height="290"/>
+<img src="/output2_3.png" alt="GitHub Logo" width="290" height="290"/>
 
 The traversal of Figure 2 is I(0->N),J(I->N-1-I) The total area is N * N/2 * 1/2 = N square/4 (the area of the triangle)
 This is equivalent to dividing the square into 4 isosceles right triangles
