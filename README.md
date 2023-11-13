@@ -55,6 +55,8 @@ There are two ways to traverse the range of 1/4: ↓↓↓↓↓↓
 
   <img src="/output1_2.png" alt="GitHub Logo" width="290" height="290"/>
 
+  
+
 The traversal range of output_1 is I(0-> N/2),J(0->N/2) The total area is N/2 * N/2 = N square / 4
 is the easiest way to think of, it is equivalent to divide the square into 4 small squares horizontally and vertically
 When N is an even number of no problem, but when N is an odd number, such as the figure N is 5, a total of 5 * 5 = 25 points,
